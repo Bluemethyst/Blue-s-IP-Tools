@@ -3,7 +3,7 @@ A group of tools for looking up information about IP addresses and storing them 
 
 # Installation
 ## Windows
-Download the latest release in releases and run the exe, no other prerequisites are needed. It may warn you when running as it is an unsigned exe but if you click more info and run anyway it will run as it should.
+Download the latest release in [releases](https://github.com/Bluemethyst/Blues-IP-Tools/releases) and run the exe, no other prerequisites are needed. It may warn you when running as it is an unsigned exe but if you click more info and run anyway it will run as it should.
 
 ## Mac and Linux
 With python 3.8+ installed download this repo using git or download it as a zip and install the required modules with 
